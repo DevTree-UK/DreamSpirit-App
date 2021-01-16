@@ -2,14 +2,11 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './modules/app-routing/app-routing.module';
-import { AppComponent } from './components/app-root/app-root';
-
-import { RenderBox } from './components/render-box/render-box';
+import { AppComponent } from './ui/app-root/app-root';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    RenderBox
+    AppComponent
   ],
   imports: [
     BrowserModule,

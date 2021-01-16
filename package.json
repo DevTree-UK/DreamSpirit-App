@@ -20,6 +20,8 @@
     "@angular/platform-browser-dynamic": "~11.0.5",
     "@angular/router": "~11.0.5",
     "rxjs": "~6.6.0",
+    "three": "^0.124.0",
+    "tone": "^14.7.77",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
